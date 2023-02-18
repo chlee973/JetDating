@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">JetDating</string>
+    <string name="app_tagline">안전하고 편안한 만남</string>
+    <string name="email">이메일</string>
+    <string name="password">비밀번호</string>
+    <string name="confirm_password">비밀번호 확인</string>
+    <string name="sign_in">로그인</string>
+    <string name="sign_in_guest">게스트로 로그인</string>
+    <string name="sign_in_google">Google 계정으로 로그인</string>
+    <string name="sign_in_naver">Naver 계정으로 로그인</string>
+    <string name="sign_in_phone_number">전화번호로 로그인</string>
+    <string name="sign_up">계정 생성</string>
+    <string name="sign_in_create_account">Sign in or create an account</string>
+    <string name="problem_with_sign_in">로그인이 안되나요?</string>
+    <string name="or">또는</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="user_continue">계속</string>
+    <string name="create_account">Create account</string>
+    <string name="terms_and_conditions">버튼을 눌러 계정을 생성하면 이용 약관과 개인 정보 보호 정책에
+동의하는 것으로 간주합니다. </string>
+    <string name="done">Done</string>
+    <string name="agree">동의함</string>
+    <string name="pass">통과</string>
+    <string name="back">Back</string>
+    <string name="close">Close</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+</resources>
